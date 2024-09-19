@@ -1,28 +1,21 @@
+## Modrek - مُدرك
 
-
-## Dhakir - ذَكِّرْ
-Dhakir is a Visual Studio Code extension crafted to support your spiritual journey throughout the day. 
-
-## Dedication
-   إلى روح أبي الغالي وأخي الحبيب الذي لم يعلمني حرفًا واحدًا فقط، بل علمني جميع الحروف والكلمات وأصول البلاغة. لولا فضل الله ثم دعمه، لما كانت "هديريات برمجية". ❤
-
-
+Modrek helps you keep track of your work time and reminds you to take breaks.
 
 ## Installation
-1. Open Visual Studio Code.
-2. Go to the Extensions view by clicking on the square icon in the sidebar or pressing `Ctrl+Shift+X`.
-3. Search for "Dhakir".
-4. Click "Install" to add the extension to your VS Code setup.
 
+Open Visual Studio Code.
+Go to the Extensions view by clicking on the square icon in the sidebar or pressing Ctrl+Shift+X.
+Search for "Modrek".
+Click "Install" to add the extension to your VS Code setup.
 
 ## Usage
-After installation, the Dhakir extension will automatically start sending periodic reminders every 30 minutes.
+Once installed, Modrek will activate automatically.
+You will receive break reminders every hour to help you stay productive and healthy.
 
-## To customize your experience
-
-1. Open the Command Palette by pressing Ctrl+Shift+P.
-2. Search for Dhakir: Settings and select it.
-3. Adjust the frequency of reminders, choose specific types of reminders, and set other preferences according to your needs.
+To manually start or stop the break timer, you can use the command available in the Command Palette:
+Press Ctrl+Shift+P to open the Command Palette.
+Type "Start Break Timer" and select it to start the timer.
 
 
 ## Join Our Community!
@@ -38,7 +31,6 @@ We love your input! If you have suggestions on how to make this extension better
 - Submit a pull request
 - Open an issue for any bug reports or feature requests
 
-<!-- Follow the [contributing guidelines](CONTRIBUTING.md) to get started. -->
 
 ## License
 

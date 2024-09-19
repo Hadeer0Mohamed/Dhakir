@@ -1,7 +1,7 @@
 {
-  "name": "dhakir",
-  "displayName": "dhakir - ذَكِّرْ",
-  "description": " فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ",
+  "name": "Modrek",
+  "displayName": "Modrek - مُدرك",
+  "description": " مُدرك .. هتدرك قيمة وقتك",
   "version": "0.0.1",
   "publisher": "haderyatparmagyaa",
   "repository": {
@@ -18,14 +18,7 @@
     "onStartupFinished"
   ],
   "main": "./extension.js",
-  "contributes": {
-    "commands": [
-      {
-        "command": "dhakir.showNotification",
-        "title": "Show Notification"
-      }
-    ]
-  },
+
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",
